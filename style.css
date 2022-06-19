@@ -1,0 +1,19 @@
+.top-header{
+    background-image: "url('bg-hero-desktop.svg')";
+}
+
+.left{
+width: 700px;
+
+}
+.right{
+
+width: 700px;
+
+}
+
+button
+{
+border-radius: 8px;
+    
+}
